@@ -1,7 +1,9 @@
-import Accordion from "./components/Accordion";
+import Accordion from "./components/Accordion.jsx";
 
 function App() {
-  return <Accordion />;
+    return <>
+        <Accordion/>
+    </>
 }
 
 export default App;
